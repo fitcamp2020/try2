@@ -6,10 +6,15 @@ table {
 .blackb{
   background-color: grey;
 }
+.mtop3{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
 .head{
   background-color: black;
   border:4px solid white;
-  border-radius: 50%;
+  /*border-radius: 50%;*/
+  border-radius: 25px;
 }
 .head:hover{
   background-color: #ef4526;
